@@ -3,7 +3,6 @@
 #include <map>
 
 // approx - O(logN)
-// Ya ebnutiy AHHAHAHAHHAAHAH
 
 bool OffersListMap::subscript_helper(double price) const
 {
