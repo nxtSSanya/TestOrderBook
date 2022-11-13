@@ -15,7 +15,7 @@ class Benchmark {
 public:
 	void start();
 	void end();
-	nanoseconds_t getMicros();
+	nanoseconds_t getNanos();
 private:
 	time_point_t m_startTime;
 	time_point_t m_endTime;
