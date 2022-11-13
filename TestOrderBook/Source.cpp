@@ -55,7 +55,7 @@ int main() {
             timer.start();
             list_map.add_bid(price, amount);
             timer.end();
-            time_bid = timer.getMicros();
+            time_bid = timer.getNanos();
         }
 
         for (auto& array2 : pt.get_child("asks")) {
@@ -71,7 +71,7 @@ int main() {
             timer.start();
             list_map.add_ask(price, amount);
             timer.end();
-            time_ask = timer.getMicros();
+            time_ask = timer.getNanos();
         }
 
         log_out << "Update:\t\t" << time_bid + time_ask << " nanoseconds\n";
@@ -81,7 +81,7 @@ int main() {
         list_map.getBestBid();
         list_map.getBestAsk();
         timer.end();
-        log_out << "Get best:\t\t" << timer.getMicros() << " nanoseconds\n";
+        log_out << "Get best:\t\t" << timer.getNanos() << " nanoseconds\n";
 
         result << "{" << pt.get<std::string>("event_time") << "}, {" << fixed << list_map.getBestBid().first << "}, {" 
             << list_map.getBestBid().second << "}, {" << list_map.getBestAsk().first << "}, {" << list_map.getBestAsk().second << "}\n";
