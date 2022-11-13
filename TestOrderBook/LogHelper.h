@@ -2,40 +2,30 @@
 
 #include <chrono>
 #include <iostream>
+#include <fstream>
+#include <string>
 
 using namespace std;
 using namespace std::chrono;
 
-class LogDuration {
+class Timer {
 public:
-	explicit LogDuration(const string& msg = "", int ops_count = 0)
-		: message(msg + ": ")
-		, start(steady_clock::now())
-		, ops_count(ops_count)
-	{
+	explicit Timer() : m_StartTimepoint(chrono::high_resolution_clock::now()) {}
+	~Timer() {
+		Stop();
 	}
+	void Stop() {
+		std::ofstream log_time_out("BenchmarkingLog.txt");
+		auto endTimepoint = chrono::high_resolution_clock::now();
 
-	~LogDuration() {
-		auto finish = steady_clock::now();
-		auto dur = finish - start;
-		cerr << message
-			<< duration_cast<milliseconds>(dur).count()
-			<< " ms";
-		if (ops_count) {
-			cerr << " (" << duration_cast<nanoseconds>(dur).count() / ops_count << " ns per op)" << endl;
-		}
-		else {
-			cerr << endl;
-		}
+		auto start = chrono::time_point_cast<chrono::microseconds>(m_StartTimepoint).time_since_epoch().count();
+		auto end = chrono::time_point_cast<chrono::microseconds>(endTimepoint).time_since_epoch().count();
+
+		auto duration = end - start;
+		double ms = duration * 0.001;
+		log_time_out << msg << " " << ms << " microseconds\n";
 	}
+	std::string msg;
 private:
-	string message;
-	steady_clock::time_point start;
-	int ops_count;
+	chrono::time_point <chrono::high_resolution_clock> m_StartTimepoint;
 };
-
-#define UNIQ_ID_IMPL(lineno) _a_local_var_##lineno
-#define UNIQ_ID(lineno) UNIQ_ID_IMPL(lineno)
-
-#define LOG_DURATION(message, ops_count) \
-  LogDuration UNIQ_ID(__LINE__){message, ops_count};

@@ -1,31 +1,22 @@
 #include "OrderBookMap.h"
+#include "Reverser.h"
 #include <iostream>
 #include <map>
 
 // approx - O(logN)
 
-bool OffersListMap::subscript_helper(double price) const
-{
-	if (!isfinite(price)) {
-		throw "Price shouldn't be inf or NaN";
+void DataHelper::MakeOffer() {
+	for (auto it = asks.begin(); it != asks.end();) {
+		if (it->second == 0.0) {
+			it = asks.erase(it);
+		}
+		else {
+			++it;
+		}
 	}
-	return data.find(price) != data.end();
-}
-double OffersListMap::operator[](double price) const {
-	if (!subscript_helper(price)) {
-		return 0;
-	}
-	return data.at(price);
-}
-
-double& OffersListMap::operator[](double price) {
-	subscript_helper(price);
-	return data[price];
-}
-void OffersListMap::MakeOffer() {
-	for (auto it = data.begin(); it != data.end();) {
-		if (!it->second) {
-			it = data.erase(it);
+	for (auto it = bids.begin(); it != bids.end();) {
+		if (it->second == 0.0) {
+			it = bids.erase(it);
 		}
 		else {
 			++it;
@@ -33,12 +24,21 @@ void OffersListMap::MakeOffer() {
 	}
 }
 
-//std::ostream& operator<<(std::ostream& os, const OffersListMap& offers_list) {
-//	bool is_first = true;
-//	for (auto [price, amount] : reverse(offers_list.data)) {
-//		if (!is_first) { cout << endl; }
-//		if (is_first) { is_first = false; }
-//		std::cout << std::fixed << price << " | " << amount;
-//	}
-//	return os;
-//}
+std::pair<double, double> DataHelper::getBestBid() {
+	return std::make_pair(bids.rbegin()->first, bids.rbegin()->second);
+}
+
+std::pair<double, double> DataHelper::getBestAsk() {
+	return std::make_pair(asks.begin()->first, asks.begin()->second);
+}
+
+ostream& operator<<(ostream& os, const std::map <double, double>& offers_list) {
+	bool is_first = true;
+	for (auto it : reverse(offers_list)) {
+		if (!is_first) { cout << endl; }
+		if (is_first) { is_first = false; }
+		cout << fixed << it.first << "\t" << it.second;
+	}
+	std::cout << "\n";
+	return os;
+}

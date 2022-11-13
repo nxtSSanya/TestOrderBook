@@ -2,15 +2,18 @@
 #include <map>
 #include <iostream>
 
-class OffersListMap {
-private:
-	bool subscript_helper(double price) const;
+using namespace std;
+
+class DataHelper {
 public:
-	OffersListMap() = default;
-	double operator[](double price) const;
-	double& operator[](double price);
-	void MakeOffer();
-	std::map<double, double> data;
+	DataHelper() = default;
+
+    std::map<double, double> bids;
+    std::map<double, double> asks;
+
+    void MakeOffer();
+    std::pair<double, double> getBestBid();
+    std::pair<double, double> getBestAsk();
 };
 
-std::ostream& operator<<(std::ostream& os, const OffersListMap& offers_list);
+std::ostream& operator<<(std::ostream& os, const std::map < double, double> &offers_list);

@@ -140,7 +140,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="benchmark.cpp" />
     <ClCompile Include="OrderBookMap.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
@@ -150,6 +149,7 @@
   <ItemGroup>
     <ClInclude Include="LogHelper.h" />
     <ClInclude Include="OrderBookMap.h" />
+    <ClInclude Include="Reverser.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

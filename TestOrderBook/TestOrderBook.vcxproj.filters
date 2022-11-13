@@ -21,9 +21,6 @@
     <ClCompile Include="OrderBookMap.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="benchmark.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\new.json">
@@ -35,6 +32,9 @@
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="LogHelper.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Reverser.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
