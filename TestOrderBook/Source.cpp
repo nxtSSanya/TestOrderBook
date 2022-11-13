@@ -35,8 +35,8 @@ int main() {
         boost::property_tree::read_json(ss, pt);
 
         for (auto& array2 : pt.get_child("bids")) {
-            double first = 0.0, second = 0.0;
-            double* const elements[2] = { &first, &second };
+            double price = 0.0, amount = 0.0;
+            double* const elements[2] = { &price, &amount };
             auto it = std::begin(elements);
 
             for (auto& i : array2.second) {
@@ -45,14 +45,14 @@ int main() {
             }
 
             std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
-            list_map.bids[first] = second;
+            list_map.add_bid(price, amount);
             std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
             time_bid = std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count();
         }
 
         for (auto& array2 : pt.get_child("asks")) {
-            double first = 0.0, second = 0.0;
-            double* const elements[2] = { &first, &second };
+            double price = 0.0, amount = 0.0;
+            double* const elements[2] = { &price, &amount };
             auto it = std::begin(elements);
 
             for (auto& i : array2.second) {
@@ -61,7 +61,7 @@ int main() {
             }
 
             std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
-            list_map.asks[first] = second;
+            list_map.add_ask(price, amount);
             std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
             time_ask = std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count();
         }
@@ -70,13 +70,14 @@ int main() {
         list_map.MakeOffer();
 
         std::chrono::steady_clock::time_point begin = std::chrono::steady_clock::now();
-        auto bestBid = list_map.getBestBid();
-        auto bestAsk = list_map.getBestAsk();
+        list_map.getBestBid();
+        list_map.getBestAsk();
         std::chrono::steady_clock::time_point end = std::chrono::steady_clock::now();
         log_out << "Get best:\t\t" << std::chrono::duration_cast<std::chrono::microseconds>(end - begin).count() << " microseconds\n";
 
         result << "{" << pt.get<std::string>("event_time") << "}, {" << fixed << list_map.getBestBid().first << "}, {" 
             << list_map.getBestBid().second << "}, {" << list_map.getBestAsk().first << "}, {" << list_map.getBestAsk().second << "}\n";
         
+        cout << list_map;
     }
 }

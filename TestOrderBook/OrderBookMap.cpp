@@ -5,6 +5,24 @@
 
 // approx - O(logN)
 
+void DataHelper::add(double price, double amount, bool isBid) {
+	if (isBid)
+		bids[price] += amount;
+	else
+		asks[price] += amount;
+}
+
+bool DataHelper::isEmpty() const {
+	return bids.empty() && asks.empty();
+}
+
+void DataHelper::add_ask(const double& price, const double& amount) {
+	add(price, amount, false);
+}
+void DataHelper::add_bid(const double& price, const double& amount) {
+	add(price, amount, true);
+}
+
 void DataHelper::MakeOffer() {
 	for (auto it = asks.begin(); it != asks.end();) {
 		if (it->second == 0.0) {
@@ -32,13 +50,17 @@ std::pair<double, double> DataHelper::getBestAsk() {
 	return std::make_pair(asks.begin()->first, asks.begin()->second);
 }
 
-ostream& operator<<(ostream& os, const std::map <double, double>& offers_list) {
-	bool is_first = true;
-	for (auto it : reverse(offers_list)) {
-		if (!is_first) { cout << endl; }
-		if (is_first) { is_first = false; }
-		cout << fixed << it.first << "\t" << it.second;
+ostream& operator<<(ostream& os, const DataHelper& ordBook) {
+	if (ordBook.isEmpty()) {
+		os << "OrderBook empty\n";
+		return os;
 	}
-	std::cout << "\n";
+	for (auto it : reverse(ordBook.asks)) {
+		os << fixed << it.first << "\t" << it.second << "\n";
+	}
+	os << "\n\n";
+	for (auto it : reverse(ordBook.bids)) {
+		os << fixed << it.first << "\t" << it.second << "\n";
+	}
 	return os;
 }
