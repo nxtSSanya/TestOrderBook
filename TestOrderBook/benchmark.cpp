@@ -10,7 +10,7 @@ void Benchmark::end() {
 	m_ellapsedTime = (nanoseconds_t)std::chrono::duration_cast<std::chrono::nanoseconds>(m_endTime - m_startTime).count();
 }
 
-nanoseconds_t Benchmark::getMicros() {
+nanoseconds_t Benchmark::getNanos() {
 	return m_ellapsedTime;
 }
 
