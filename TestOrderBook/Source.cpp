@@ -18,6 +18,11 @@ int main() {
 
     boost::property_tree::ptree pt;
     std::ifstream json_in("huobi.json");
+    if (!json_in) {
+        std::cout << "No file \"huobi.json\" in current directory.\n";
+        throw std::exception("File not found");
+    }
+    std::cout << "Working...\n";
     std::ofstream log_out("BenchmarkLog.txt");
     std::ofstream result("results.txt");
     std::string line_json; 
@@ -27,8 +32,8 @@ int main() {
 
     while (std::getline(json_in, line_json)) {
 
-        auto time_bid = 0;
-        auto time_ask = 0;
+        long double time_bid = 0;
+        long double time_ask = 0;
         line_json = line_json.substr(62, line_json.size() - 1);
         std::stringstream ss;
 
@@ -69,17 +74,16 @@ int main() {
             time_ask = timer.getMicros();
         }
 
-        log_out << "Update:\t\t" << time_bid + time_ask << " microseconds\n";
+        log_out << "Update:\t\t" << time_bid + time_ask << " nanoseconds\n";
         list_map.MakeOffer();
 
         timer.start();
         list_map.getBestBid();
         list_map.getBestAsk();
         timer.end();
-        log_out << "Get best:\t\t" << timer.getMicros() << " microseconds\n";
+        log_out << "Get best:\t\t" << timer.getMicros() << " nanoseconds\n";
 
         result << "{" << pt.get<std::string>("event_time") << "}, {" << fixed << list_map.getBestBid().first << "}, {" 
             << list_map.getBestBid().second << "}, {" << list_map.getBestAsk().first << "}, {" << list_map.getBestAsk().second << "}\n";
-        
     }
 }

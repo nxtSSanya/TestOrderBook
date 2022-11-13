@@ -7,10 +7,10 @@ void Benchmark::start() {
 void Benchmark::end() {
 	m_endTime = std::chrono::high_resolution_clock::now();
 
-	m_ellapsedTime = (microseconds_t)std::chrono::duration_cast<std::chrono::microseconds>(m_endTime - m_startTime).count();
+	m_ellapsedTime = (nanoseconds_t)std::chrono::duration_cast<std::chrono::nanoseconds>(m_endTime - m_startTime).count();
 }
 
-microseconds_t Benchmark::getMicros() {
+nanoseconds_t Benchmark::getMicros() {
 	return m_ellapsedTime;
 }
 
