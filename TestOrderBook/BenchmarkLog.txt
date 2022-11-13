@@ -1,0 +1,5241 @@
+Update:		4 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		14 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		17 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		10 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		6 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		20 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		6 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		15 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		16 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		15 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		105 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		11 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		5 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		5 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		10 microseconds
+Update:		7 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		11 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		22 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		15 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		5 microseconds
+Update:		8 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		9 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		13 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		10 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		5 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		15 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		9 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		56 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		8 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		19 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		14 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		13 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		5 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		36 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		4 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		8 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		123 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		4 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		333 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		5 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		16 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		15 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		23 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		13 microseconds
+Get best:		3 microseconds
+Update:		15 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		15 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		12 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		59 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		17 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		15 microseconds
+Update:		1 microseconds
+Get best:		17 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		23 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		16 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		15 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		42 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		21 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		5 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		15 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		13 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		15 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		19 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		16 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		14 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		6 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		8 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		263 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		15 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		21 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		15 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		4 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		76 microseconds
+Get best:		4 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		15 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		26 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		16 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		19 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		3 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		0 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		4 microseconds
+Get best:		3 microseconds
+Update:		1 microseconds
+Get best:		3 microseconds
+Update:		2 mic

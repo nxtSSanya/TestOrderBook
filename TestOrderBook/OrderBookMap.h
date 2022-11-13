@@ -5,6 +5,7 @@
 using namespace std;
 
 class DataHelper {
+public:
     std::map<double, double> bids;
     std::map<double, double> asks;
     void add(double price, double amount, bool isBid);

@@ -7,9 +7,9 @@
 
 void DataHelper::add(double price, double amount, bool isBid) {
 	if (isBid)
-		bids[price] += amount;
+		bids[price] = amount;
 	else
-		asks[price] += amount;
+		asks[price] = amount;
 }
 
 bool DataHelper::isEmpty() const {
@@ -50,7 +50,7 @@ std::pair<double, double> DataHelper::getBestAsk() {
 	return std::make_pair(asks.begin()->first, asks.begin()->second);
 }
 
-ostream& operator<<(ostream& os, const DataHelper& ordBook) {
+std::ostream& operator<<(ostream& os, const DataHelper& ordBook) {
 	if (ordBook.isEmpty()) {
 		os << "OrderBook empty\n";
 		return os;
@@ -58,7 +58,7 @@ ostream& operator<<(ostream& os, const DataHelper& ordBook) {
 	for (auto it : reverse(ordBook.asks)) {
 		os << fixed << it.first << "\t" << it.second << "\n";
 	}
-	os << "\n\n";
+	os << "\n";
 	for (auto it : reverse(ordBook.bids)) {
 		os << fixed << it.first << "\t" << it.second << "\n";
 	}

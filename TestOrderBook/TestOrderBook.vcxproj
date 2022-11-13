@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="benchmark.cpp" />
     <ClCompile Include="OrderBookMap.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
@@ -147,7 +148,7 @@
     <None Include="..\new.json" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="LogHelper.h" />
+    <ClInclude Include="benchmark.h" />
     <ClInclude Include="OrderBookMap.h" />
     <ClInclude Include="Reverser.h" />
   </ItemGroup>
