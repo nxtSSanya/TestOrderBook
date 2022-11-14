@@ -20,7 +20,6 @@ int main() {
     std::ifstream json_in("huobi.json");
     if (!json_in) {
         std::cout << "No file \"huobi.json\" in current directory.\n";
-        throw std::exception("File not found");
     }
     std::cout << "Working...\n";
     std::ofstream log_out("BenchmarkLog.txt");
