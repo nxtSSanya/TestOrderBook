@@ -17,6 +17,7 @@ int main() {
     if (!json_in) {
         std::cout << "No file \"huobi.json\" in current directory.\n";
         system("pause");
+        return 1;
     }
     std::cout << "Working...\n";
     std::ofstream log_out("BenchmarkLog.txt");
