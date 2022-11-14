@@ -9,9 +9,7 @@
 #include <chrono>
 #include "benchmark.h"
 
-using std::cin;
 using std::cout;
-using std::endl;
 
 int main() {
     std::ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
@@ -20,6 +18,7 @@ int main() {
     std::ifstream json_in("huobi.json");
     if (!json_in) {
         std::cout << "No file \"huobi.json\" in current directory.\n";
+        system("pause");
     }
     std::cout << "Working...\n";
     std::ofstream log_out("BenchmarkLog.txt");
